@@ -14,7 +14,7 @@ body{
   background-color: #EAFEEA;
 }
 
-img{
+img.head{
   width: 65%;
   border-radius: 55%;
 }
@@ -25,6 +25,10 @@ p.blue{
 
 p.green{
   color: green;
+}
+
+.smolsqaure{
+  float: right;
 }
 
 .green{
