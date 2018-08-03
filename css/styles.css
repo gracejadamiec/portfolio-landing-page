@@ -19,6 +19,14 @@ img{
   border-radius: 55%;
 }
 
+p.blue{
+  color: #00b3b4;
+}
+
+p.green{
+  color: green;
+}
+
 .green{
   color: green;
 }
