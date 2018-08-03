@@ -1,8 +1,10 @@
 h1{
   font-family: Lucida Console, Courier, monospace;
   text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid green;
 }
-
 
 h6{
   text-align: center;
@@ -12,8 +14,9 @@ body{
   background-color: #EAFEEA;
 }
 
-.intro{
-  border-radius: 50%;
+img{
+  width: 65%;
+  border-radius: 55%;
 }
 
 .green{
