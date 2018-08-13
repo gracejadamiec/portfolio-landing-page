@@ -1,5 +1,5 @@
 
-# Portfolio Landing Page(https://github.com/gracejadamiec/portfolio-landing-page.git)
+[Portfolio Landing Page](https://github.com/gracejadamiec/portfolio-landing-page.git)
 
 #### This is a demonstration of the concepts I've learned in my first week of Epicodus, 08/03/2018
 
