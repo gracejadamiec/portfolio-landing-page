@@ -7,13 +7,13 @@
 
 ## Description
 
-This is a demonstration of the concepts I've learned in my first week of Epicodus. It will be used to evaluate my comprehension of the skills and concepts demonstrated in class
+This is a demonstration of the concepts I've learned in my first week of Epicodus. It will be used to evaluate my comprehension of the skills and concepts demonstrated in class.
 
 ## Setup/Installation Requirements
 
 * Clones the Repo from GitHub to your local machine
 * Open the index.html in your browser
-* Using the terminal us command cd portfolio-landing-page to get into the directory
+* Using the terminal us command cd portfolio-landing-page to get into the     directory
 * Open Atom using the command Atom .
 * View the code in Atom
 
