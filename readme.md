@@ -1,5 +1,5 @@
 
-# Portfolio Landing Page
+# Portfolio Landing Page(https://github.com/gracejadamiec/portfolio-landing-page.git)
 
 #### This is a demonstration of the concepts I've learned in my first week of Epicodus, 08/03/2018
 
@@ -11,17 +11,11 @@ This is a demonstration of the concepts I've learned in my first week of Epicodu
 
 ## Setup/Installation Requirements
 
-* Clones the Respo from GitHub to your local machine
+* Clones the Repo from GitHub to your local machine
 * Open the index.html in your browser
 * Using the terminal us command cd portfolio-landing-page to get into the directory
-* Open Atom using the comand Atom .
+* Open Atom using the command Atom .
 * View the code in Atom
-
-
-
-## Known Bugs
-
-There are no known bugs so far
 
 
 

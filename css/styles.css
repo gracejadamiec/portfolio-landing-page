@@ -26,6 +26,9 @@ p.blue{
 p.green{
   color: green;
 }
+.nav{
+  background-color: #c1fcc1;
+}
 
 .smolsqaure{
   float: right;
